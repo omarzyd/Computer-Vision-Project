@@ -2,7 +2,7 @@
 
 Computer vision pipeline that detects soda cans on a shelf, tracks them through video, and records when each can falls — inspired by tin-can alley gameplay.
 
-**Author:** [Omar Zyd](https://github.com/omarzyd)  
+**Author:** [Omar Zayed](https://github.com/omarzyd)  
 **Course:** Year 3 — Computer Vision
 
 <p align="center">
